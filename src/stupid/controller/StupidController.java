@@ -1,5 +1,9 @@
 package stupid.controller;
 
+/**
+ * @author Ben.Pratt
+ */
+
 import stupid.model.ThirdStupid;
 
 public class StupidController
